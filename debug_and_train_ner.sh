@@ -13,4 +13,4 @@
 #[--orth-variant-level] [--learn-tokens] [--textcat-arch] [--textcat-multilabel]
 #[--textcat-positive-label] [--verbose]
 
-python -m spacy train en models.en_core_web_sm train_json dev_json --base-model en_core_web_sm --pipeline ner --verbose
+python -m spacy train en models.en train_json dev_json --base-model en --pipeline ner --verbose
