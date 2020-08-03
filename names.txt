@@ -1,0 +1,486 @@
+1 Mohammad Najibullah Ahmadzai
+2 Hamid Karzai
+3 Aleksandër Meksi
+4 Sali Ram Berisha
+5 José Eduardoos Santos
+6 Alejandro Agustín Lanusse
+7 Ricardo Balbín
+8 José Octavio Bordón
+9 Horacio Massaccesi
+10 Levon Hakobi Ter-Petrosyan
+11 Vazgen Mikaeli Manukyan
+12 Sergey Badalyan
+13 Sir Robert Gordon Menzies
+14 Arthur Augustus Calwell
+15 Paul John Keating
+16 John Winston Howard
+17 Rudolf Kirchschläger
+18 Norbert Burger
+19 Heinz Fischer
+20 Barbara Rosenkranz
+21 Ilham Heydarglu Aliyev
+22 Ziaur Rahman
+23 Abdus Sattar
+24 Kamal Hossain
+25 Hussain Muhammad Ershad
+26 Khaleda Zia
+28 Alexander Grigoryevich Lukashenkor
+29 Andréi Olégovich Sánnikov
+30 Marc Maria Frans Eyskens
+31 Wilfried Achiel Emma Martens
+32 Jean Luc Joseph Marie Jean-Luc Dehaene
+33 Coutoucou Hubert Maga
+34 Nicéphore Dieudonné Soglo
+35 Mathieu Kérékou
+36 Adrien Houngbédji
+37 Bruno Ange-Marie Amoussou
+38 Ángel Víctor Paz Estenssoro
+39 Gonzalo Sáncheze Lozada y Sánchez de Bustamante
+40 Hugo Banzer Suárez
+41 Carlos Palenque
+42 Max Fernández Rojas
+43 Haris Silajdžić 
+44 Ivo Miro Jović
+45 Nebojša Radmanović
+46 Sulejman Tihić
+47 Željko Komšić
+48 Mladen Bosić
+49 Quett Ketumile Joni Masire 
+50 Festus Gontebanye Mogae
+51 Juscelino Kubitscheke Oliveira
+52 João Belchior Marques Goulart
+53 Fernando Henrique Cardoso
+54 Orestes Quércia
+55 Itamar Augusto Cautiero Franco
+56 Luiz Inácio Lulaa Silva
+57 Enéas Ferreira Carneiro
+58 Petar Stefanov Stojanov
+59 Ivan Yordanov Kostov
+60 Stefan Antonov Sofiyanski
+61 Aboubakar Sangoulé Lamizana
+62 Joseph Ki-Zerbo
+63 Blaise Compaoré
+64 Ram Ouédraogo
+65 Frédéric Fernand Guirma
+66 Pierre Ngendandumwe
+67 Prince Léopold Biha
+68 Pierre Nkurunziza
+69 Norodom Sihanouk
+70 Kem Sokha
+72 Norodom Arunrasmy
+73 Sam Rainsy
+76 Ahmadou Babatoura Ahidjo
+77 Paul Biya
+78 Bello Bouba Maigari
+79 Joseph Philippe Pierre Yves Elliott Trudeau
+80 Robert Lorne Stanfield
+81 Avril Phaedra Douglas Campbell
+82 Joseph Jacques Jean Chrétien
+83 Lucien Bouchard
+84 José Maria Pereira Neves
+85 Pedroe Verona Rodrigues Pires
+86 David Dacko
+87 Ange-Félix Patassé
+88 André-Dieudonné Kolingba
+89 Abel Nguéndé Goumba
+90 David Dacko
+91 Idriss Déby Itno
+92 Pedro Enrique Alfonso Barrios
+93 Carlos Ibáñezel Campo
+94 Arturo Matte Larraín
+95 Salvador Guillermo Allende Gossens
+96 Eduardo Alfredo Juan Bernardo Frei Ruiz-Tagle
+97 Arturo Alessandri Besa
+98 Belisario Betancur Cuartas
+99 Virgilio Barco Vargas
+100 César Augusto Gaviria Trujillo
+101 Said Mohammed Djohar
+102 Mohamed Taki Abdoulkarim
+103 Denis Sassou Nguesso
+104 André Ntsatouabantou Milongo
+105 Pascal Lissouba
+106 José María Hipólito Figueres Ferrer
+107 Luis Rafaele la Trinidad Otilio Ulate Blanco
+108 Miguel Ángel Rodríguez Echeverría
+109 Aimé Henri Konan Bédié
+110 Koudou Laurent Gbagb
+112 Zdravko Tomac
+113 Vladimir Gotovac
+114 Ramón Grau San Martín
+115 Spyros Achilleos Kyprianou
+116 Glafcos Ioannou Clerides
+117 Alekos Markidis
+118 Efstathios Nikolaou Papadopoulos
+119 Václav Klaus
+120 Josef Tošovskýis
+121 Miloš Zeman
+123 Edvard Beneš, Edward Benesh
+124 Jan Garrigue Masaryk
+125 Zdeněk Fierlinger
+126 Václav Havel
+127 Moïse Kapend Tshombe
+128 Évariste Leon Kimba Mutombo
+129 Joseph Kasa-Vubu, Joseph Kasavubu
+130 Joseph Kabila Kabange
+131 Jean-Pierre Bemba Gombo
+132 Hans Hedtoft Hansen
+133 Erik Eriksen
+134 Anders Fogh Rasmussen
+135 Hassan Gouled Aptidon
+136 Joaquín Antonio Balaguer Ricardo
+137 Silvestre Antonio Guzmán Fernández, Antonio Guzmán
+138 Danilo Medina Sánchez
+139 Rafael Hipólito Mejía Domínguez
+140 Mariin Amude Alkatiri
+141 José Manuel Ramos-Horta
+142 José Alexandre Gusmão, Xanana Gusmão, Kay Rala Xanana
+143 Rodrigo Borja Cevallos
+144 León Esteban Febres-Cordero Ribadeneyra
+145 Rafael Vicente Correa Delgado
+146 Lucio Edwin Gutiérrez Borbúa
+147 Álvaro Fernando Noboa Pontón
+148 Ahmad Maher Pasha
+149 Mostafal-Nahhas Pasha or Mostafa Nahas
+150 Muhammad Hosni El Sayed Mubarak
+151 Colonel Arturo Armando Molina Barraza
+152 Fidel Sánchez Hernández
+155 Elías Antonio Saca González
+156 Arnold Rüütel
+157 Mart Laar
+158 Meles Zenawi Asres
+159 Laisenia Qarase
+160 Mahendra Chaudhry
+161 Josaia Voreqe Bainimarama
+162 Urho Kaleva Kekk
+163 Ralf Johan Gustaf Törngren
+164 Esko Tapani Aho
+165 Paavo Tapio Lipponen
+166 François Maurice Adrien Marie Mitterrand
+167 François Mitterrand
+168 Pierre Mamboundou
+169 Mustapha Dibba
+170 Assan Musa Camara
+171 Yahya Abdul-Aziz Jemus Junkung Jammeh
+172 Ousainou Darboe
+173 Hamat Ngai Kumba Bah
+174 Mikheil Saakashvili
+175 Levan Gachechiladze
+176 Helmut Josef Michael Kohl
+177 Hans-Jochen Vogel
+178 Hans Modrow
+179 Lothare Maizière
+180 Helmut Kohl
+181 Jerry John Rawlings
+182 Hilla Limann
+184 Victor Owusu
+185 William Ofori Atta
+186 Jerry John Rawlings
+187 Albert Kwadwo Adu Boahen
+188 Konstantinos Mitsotakis
+189 Andreas Georgios Papandreou
+190 Juan José Arévalo Bermejo
+191 Alfonso Antonio Portillo Cabrera
+192 José Efraín Ríos Montt
+193 Álvaro Enrique Arzú Yrigoyen
+194 Lansana Conté
+195 Mamadou Boye Bah
+196 Alpha Condé
+197 Kumba Ialá Embaló
+198 Henrique Pereira Rosa
+199 Hugh Desmond Hoyte
+200 Linden Forbes Sampson Burnham
+201 Bharrat Jagdeo
+202 Henri Namphy
+203 Jean-Claude Bajeux
+204 René Garcia Préval
+205 Leslie François Saint Roc Manigat
+206 Charles-Henri Jean-Marie Baker
+207 Julio Lozano Díaz,
+208 Ricardo Rodolfo Maduro Joest
+209 Rafael Pineda Ponce
+210 Lajos Dinnyés
+211 Mátyás Rákosi
+212 József Antall
+213 Miklós Németh
+214 Ólafur Ragnar Grímsson
+215 Thóra Arnórsdóttir
+216 Morarji Ranchhodji Desai
+217 Chandra Shekhar Singh
+218 Pamulaparthi Venkata Narasimha Rao
+219 Pamulaparthi Rao
+221 Susilo Bambang Yudhoyono
+222 Sayyid Ruhollah Musavi Khomeini
+223 Mahmoud Ahmadinejad
+224 Ayad Allawi
+225 Ibrahim Abd al-Karim al-Eshaiker
+226 Charles James Haughey
+227 Garret Desmond FitzGerald
+228 John Gerard Bruton
+229 Dick Spring
+230 Bartholomew Patrick Ahern
+231 David Ben-Gurion
+232 Menakhem Volfovich Begin
+233 Benjamin Netanyahu
+234 Ehud Barak
+235 Giulio Andreotti
+236 Giuliano Amato
+237 Francesco Rutelli
+239 Walter Veltroni
+240 Silvio Berlusconi
+241 Gianfranco Fini
+242 Pier Ferdinando Casini
+243 Umberto Bossi
+244 Michael Norman Manley
+245 Edward Philip George Seaga
+246 Andrew Michael Holness
+247 Portia Lucretia Simpson-Miller
+248 Yasuhiro Nakasone
+249 Kiichi Miyazawa
+250 Morihiro Hosokawa
+251 Marouf Suleiman al-Bakhit
+252 Nursultan Äbishuly Nazarbayev
+253 Jomo Kenyatta
+254 Jaramogi Ajuma Oginga Odinga
+255 Daniel Toroitich arap Moi
+256 Raila Amolo Odinga
+257 Hashim Thaçi
+258 Isa Mustafa
+259 Albin Kurti
+260 Sabah al-Ahmad al-Jaber al-Sabah
+262 Askar Akayevich Akayev
+263 Phoui Sananikone
+264 Prince Souphanouvong
+265 Valdis Dombrovskis
+266 Nils Ušakovs
+267 Valdis Zatlers
+268 Camille Nimr Chamoun
+270 Fouad Siniora
+271 Saad El-Din Rafik Al-Hariri
+272 Hassan Nasrallah
+274 Joseph Leabua Jonathan
+275 Moshoeshoe
+276 Clement Ntsu Sejabanana Mokhehle
+277 Justin Metsing Lekhanya
+278 Ellen Johnson Sirleaf
+279 Winston A. Tubman
+280 Yormie Johnson
+281 Mahmud al-Muntasir
+282 Muhammad Idris bin Muhammad al-Mahdi as-Senussi
+283 Mahmoud Jibrill-Warfally
+284 Mohamed Sowan
+285 Ali Zeidan
+286 Tito Petkovski
+287 Boris Trajkovski
+288 Stojan Andov
+289 Philibert Tsiranana
+290 Albert Zafy
+291 Hastings Kamuzu Banda
+292 Chakufwa Chihana
+293 Tunku Abdul Rahman Putra Al-Haj ibni Almarhum Sultan Abdul Hamid Halim Shah
+294 Fadzil bin Muhammad Noor
+295 Fadzilin Muhammad Noor
+296 Amadou Toumani Touré
+297 Ibrahim Boubacar Keïta
+298 Maaouya Ould Sid'Ahmed Taya
+299 Ely Ould Mohamed Vall
+300 Ahmed Ould Daddah
+301 Messaoud Ould Boulkheir
+302 Seewoosagur Ramgoolam
+303 Anerood Jugnauth
+304 Paul Raymond Bérenger
+305 Charles Gaëtan Duval
+306 Navinchandra Ramgoolam
+307 Charles Gaëtan Xavier Luc Duval
+308 Miguele la Madrid Hurtado
+309 Pablo Emilio Madero Belden
+310 Ernesto Zedillo Poncee León
+311 Diego Fernándeze Cevallos Ramos
+312 Cuauhtémoc Cárdenas Solórzano
+313 Mircea Ion Snegur
+314 Petru Lucinschi
+315 Vladimir Voronin
+316 Andrei Sangheli
+317 Valeriu Matei
+318 Natsagiin Bagabandi
+319 Radnaasümbereliin Gonchigdorj
+320 Filip Vujanović
+321 Andrija Mandić
+322 Nebojša Medojević
+323 Srđan Milić
+325 Hassan II
+326 Abdellatif Filali
+327 Abderrahmane Youssoufi
+328 Joaquim Alberto Chissano
+329 Afonso Marceta Macacho Dhlakama
+331 U Nur Thakin Nu
+332 Thein Sein
+333 Samuel Shafiishuna Daniel Nujoma
+334 Benjamin Ulenga
+335 Katuutire Kaura
+336 Bishweshwar Prasad Koirala
+337 Subarna Shamsher Rana
+338 Mahendra
+339 Pushpa Lal Shrestha
+340 Sir Baber Shumsher Jang Bahadur Rana 
+341 Kunwar Indrajit Singhr Kunwar Inderjit Singh
+342 Girija Prasad Koirala
+343 Prasad Bhattarai
+344 Madhav Kumar Nepal
+345 Andreas Antonius Maria van Agt
+346 Jan Pieter Balkenende
+347 Mark Rutte
+349 Sir Walter Nash
+350 Sir Keith Jacka Holyoake
+351 Anastasio "Tachito" Somoza Debayle
+352 Fernando Bernabé Agüero Rocha
+353 José Arnoldo Alemán Lacayo
+354 José Daniel Ortega Saavedra
+355 General Ibrahim Baré Maïnassara
+356 Daouda Malam Wanké
+357 Mahamadou Issoufou
+358 Lieutenant Colonel Mamadou Tandja
+359 Hama Amadou
+360 Shehu Usman Aliyu Shagari
+361 Obafemi Jeremiah Oyeniyi Awolowo
+362 Nnamdi Azikiwe
+363 Olusegun Matthew Okikiola Aremu Obasanjo
+364 Einar Henry Gerhardsen
+365 Jens Stoltenberg
+366 Kjell Magne Bondevik
+367 Benazir Bhutto
+368 Aristides Royo Sánchez
+369 Omar Efraín Torrijos Herrera
+370 Martín Erasto Torrijos Espino
+371 Ernesto Pérez Balladares González-Revilla
+372 Mireya Elisa Moscoso Rodrígueze Arias
+373 Alberto Vallarino Clément
+374 Paias Wingti
+375 Rabbie Langanai Namaliu
+376 Alfredo Stroessner Matiauda
+377 Óscar Nicanor Duarte Frutos
+378 Luis Ángel González Macchi
+379 Julio César Ramón Franco Gómez
+380 Manuel Carlos Prado y Ugarteche
+381 Alejandro Celestino Toledo Manrique
+382 Ollanta Moisés Humala Tasso
+383 Alan Gabriel Ludwig García Pérez
+384 Lourdes Celmira Rosario Flores Nano
+385 Martha Gladys Chávez Cossíoe Ocampo
+386 Carlos Polistico Garcia
+387 Ramonel Fierro Magsaysay
+388 Diosdado Pangan Macapagal
+389 José Yulo Yulo
+390 Manuel Perez Manahan
+391 Józef Adam Zygmunt Cyrankiewicz
+392 Jarosław Aleksander Kaczyński
+393 Aníbal António Cavaco Silva
+394 Jorge Fernando Brancoe Sampaio
+395 Mário Alberto Nobre Lopes Soares
+396 Jerónimo Carvalhoe Sousa
+397 Francisco Anacleto Louçã
+398 Ngô Đình Diệm
+399 Bảo Đại
+400 Hồ Chí Minh
+401 Petru Groza
+402 Adrian Năstase
+403 Paul Kagame
+404 Léopold Sédar Senghor
+405 Abdoulaye Wade
+406 Idrissa Seck
+407 Ousmane Tanor Dieng
+408 Vojislav Koštunica
+409 Miroljub Labus
+411 Dragoljub Mićunović
+412 Albert Michael Margai
+413 Lee Kuan Yew
+414 Goh Chok Tong
+415 Mikuláš Dzurinda
+416 Vladimír Mečiar
+417 Janez Drnovšek
+418 Andrej Bajuk
+419 Danny Philip
+420 Mohamed Haji Ibrahim Egal
+421 Hendrik Frensch Verwoerd, alsoommonly referred to as Dr.  Verwoerd,
+422 De Villiers Graaff
+423 Thabo Mvuyelwa Mbeki
+425 Anthony James Leon
+426 Tony Leon
+427 Marthinus Christoffel Johannes van Schalkwyk
+428 Lee Myung-bak
+429 Moon Jae-in
+430 Leopoldo Ramón Pedro Calvo-Sotelo y Bustelo
+431 Felipe González Márquez
+432 Manuel Fraga Iribarne
+433 José María Alfredo Aznar López
+434 Sri Lankabhimanya Ranasinghe Premadasa
+435 Sri Lankabhimanya Dingiri Banda Wijetunga
+436 Chandrika Bandaranaike Kumaratunga
+437 Ranil Wickremesinghe
+438 Sayed Abdallah Khalil
+439 Ismail al-Azhari
+440 Omar Hassan Ahmad al-Bashir
+441 Yasir Said Arman
+442 Prince Makhosini Jaheso Dlamini
+443 Sven Olof Joachim Palme
+444 Ulf Adelsohn
+445 Nils Daniel Carl Bildt
+446 Gösta Ingvar Carlsson
+447 Charles Oser
+448 François Couchepin
+449 Annemarie Huber-Hotz
+450 Christoph Blocher
+451 Maarouf al-Dawalibi
+452 Nazim al-Qudsi
+453 Chen Shui-bian
+454 Rahmon Nabiyevich Nabiyev
+455 Davlat Khudonazarov
+456 Julius Kambarage Nyerere
+457 Jakaya Mrisho Kikwete
+458 Mom Rajawongse Kukrit Pramoj
+460 Bhichai Rattakul
+461 Prem Tinsulanonda
+462 Samak Sundaravej
+463 Surayud Chulanont
+464 Thaksin Shinawatra
+465 Gnassingbé Eyadéma
+466 Eric Eustace Williams
+467 Basdeo Panday
+468 Patrick Augustus Mervyn Manning
+469 Zine El Abidine Ben Ali
+470 Hamadi Jebali
+471 Sami Süleyman Gündoğdu Demirel
+472 Mustafa İsmet İnönü
+473 Ahmet Mesut Yılmaz
+474 Mustafa Bülent Ecevit
+475 Necmettin Erbakan
+476 Tansu Çiller
+477 Saparmurat Atayevich Niyazovr Beýik Türkmenbaşy
+478 Paulo Muwanga
+479 Apollo Milton Obote
+480 Paul Kawanga Ssemogerere
+481 Yoweri Kaguta Museveni
+482 Warren Kizza Besigye Kifefe
+483 Leonid Makarovych Kravchuk
+484 Leonid Danylovych Kuchma
+485 Edward Richard George Heath
+486 Anthony Charles Lynton Blair
+487 Michael Howard
+488 Lyndon Baines Johnson
+489 Lyndon Johnson
+490 Richard Milhous Nixon
+491 George Corley Wallace
+492 Guillermo Stirling
+493 Tabaré Ramón Vázquez Rosas
+494 Islam Abduganiyevich Karimov
+495 Madaminov Salay
+496 Rafael Antonio Caldera Rodríguez
+497 Carlos Andrés Pérez Rodríguez
+498 Hugo Rafael Chávez Frías
+499 Ali Abdullah Saleh
+500 Kenneth David Kaunda
+501 Harry Mwaanga Nkumbula
+502 Frederick Jacob Titus Chiluba
+503 Ian Douglas Smith
+504 Abel Tendekayi Muzorewa
+505 Robert Gabriel Mugabe
+506 Joshua Mqabuko Nyongolo Nkomo
